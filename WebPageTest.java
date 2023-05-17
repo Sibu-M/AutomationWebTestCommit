@@ -38,8 +38,7 @@ WebDriver driver=new ChromeDriver();
     		  
     		  		//Pause script execution for 1 second
 	      			Thread.sleep(1000);
-    		  
-    		  //COME BACK TO ME!!!!!!!!!
+    	
     	      //Confirm that the click request ran successfully
     	      System.out.println("Radio button 1 was selected - " + btn1.isSelected());
     	      System.out.println("Radio button 2 was selected - " + btn2.isSelected());
